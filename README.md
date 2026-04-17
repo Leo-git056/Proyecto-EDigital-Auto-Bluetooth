@@ -53,7 +53,9 @@ La aplicación Android fue desarrollada para:
   - 50%
   - 100%
  
-    
+    <p align="center">
+  <img src="aplicacionAndroid.jpg" width="300">
+</p>
 
 La comunicación se realiza mediante el envío de caracteres específicos por UART al microcontrolador.
 
